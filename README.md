@@ -22,10 +22,6 @@
 <div align="center">
   <a href="https://github.com/leafar005">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=leafar005&show_icons=true&locale=es&theme=dark&include_all_commits=true&count_private=true&v=300" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=leafar005&show_icons=true&locale=es&include_all_commits=true&count_private=true&v=300" media="(prefers-color-scheme: light)" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leafar005&show_icons=true&locale=es&include_all_commits=true&count_private=true&v=300" />
-    </picture>&nbsp;&nbsp;<picture>
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leafar005&locale=es&layout=compact&theme=dark&langs_count=8&count_private=true&v=300" media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)" />
       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=leafar005&locale=es&layout=compact&langs_count=8&count_private=true&v=300" media="(prefers-color-scheme: light)" />
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leafar005&locale=es&layout=compact&langs_count=8&count_private=true&v=300" />

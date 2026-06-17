@@ -1,4 +1,4 @@
-<h1 align="center">eyo! Soy Rafael Casado San Segundo</h1>
+<h1 align="center">eyo! Soy Rafa</h1>
 
 <p align="center">
   <b>Estudiante de Ingeniería Informática en la UDC</b>
